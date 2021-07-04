@@ -1,4 +1,4 @@
-# Privacy and Security in Online Social Media-Assignments
+# Privacy and Security in Online Social Media - Hands-on excercies
 ###### This repository contains all the course assignments done as a part of CSE648-Privacy and Security in Online Social Media.
 ---
 
