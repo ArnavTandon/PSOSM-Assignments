@@ -3,10 +3,10 @@
 ---
 
 - ### Assignment 1 
-**Hands-on with Numpy, Matplotlib and interactive time-series graphs on the provided dataset to derive inferences related to 2020 US elections on Parler platform **
+**Hands-on with Python libraries like Numpy, Matplotlib and interactive time-series graphs on the provided dataset to derive inferences related to 2020 US elections on Parler platform**
 
 - ### Assignment 2 
-**Analysis of twitter handle of Noida Police (@noidapolice) and a trending topic of that time #Dhoni**
+**Analysis of Twitter handle of Noida Police (@noidapolice) and a trending topic on Twitter**
 Section 1:
 I downloaded tweets for Noida Police from their twitter handle(@noidapolice) and then analyzed them based on different parameters like people sharing their Personally identifiable information(PII) in different forms like tweets images, videos or other media, response time of the handle in replying to tweets by other users and sentiment analysis of tweets from their handle.
 
